@@ -6,3 +6,5 @@ Group Members:
 Jack Purcell 
 
 Charles Shoppel
+
+Cherry Mercedes
